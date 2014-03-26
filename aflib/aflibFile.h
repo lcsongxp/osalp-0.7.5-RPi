@@ -32,6 +32,7 @@
 #include <string>
 #include <list>
 #include <map>
+using namespace std;
 using std::string;
 using std::list;
 using std::map;

@@ -25,7 +25,7 @@
 
 
 #include <stdio.h>
-#include <iostream.h>
+#include <iostream>
 
 
 #include "aflibBufferDev.h"

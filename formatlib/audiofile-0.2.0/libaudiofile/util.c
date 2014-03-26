@@ -34,6 +34,7 @@
 #include <stdlib.h>
 #include <math.h>
 #include <assert.h>
+#include <string.h> /* memset, strlen, strcpy */
 
 #include "audiofile.h"
 #include "afinternal.h"

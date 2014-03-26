@@ -30,7 +30,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <fcntl.h>
-#include <iostream.h>
+#include <iostream>
 
 #include "aflibAifcFile.h"
 #include "aflibData.h"

@@ -26,7 +26,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <fcntl.h>
-#include <iostream.h>
+#include <iostream>
 
 #include <vorbis/codec.h>
 #include <vorbis/vorbisfile.h>

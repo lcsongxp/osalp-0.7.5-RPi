@@ -11,7 +11,7 @@
 #include <stdlib.h>
 #include <sys/ioctl.h>
 #include <unistd.h>
-#include <iostream.h>
+#include <iostream>
 
 #include <X11/X.h>
 

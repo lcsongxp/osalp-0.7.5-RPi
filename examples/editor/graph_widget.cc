@@ -6,7 +6,7 @@
 // 
 //
 
-#include <iostream.h>
+#include <iostream>
 #include <stdio.h>
 #include "graph_widget.h"
 #include "plot.h"

@@ -22,6 +22,8 @@
 #include <assert.h>
 
 #include <audiofile.h>
+#include <string.h> /* memset */
+#include <unistd.h> /* close */
 
 #include "afinternal.h"
 #include "units.h"

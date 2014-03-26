@@ -12,7 +12,7 @@
 #include <sys/ioctl.h>
 #include <unistd.h>
 #include <fcntl.h>
-#include <iostream.h>
+#include <iostream>
 
 #include "gui.h"
 

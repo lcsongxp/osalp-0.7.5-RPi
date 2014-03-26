@@ -28,7 +28,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include <fcntl.h>
-#include <iostream.h>
+#include <iostream>
 
 #include "aflibWavFile.h"
 #include "aflibFileItem.h"

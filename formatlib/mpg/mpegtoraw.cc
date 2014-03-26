@@ -12,7 +12,7 @@
 #include <math.h>
 #include <stdlib.h>
 #include <unistd.h>
-#include <iostream.h>
+#include <iostream>
 
 #include "mpegsound.h"
 #include "mpegsound_locals.h"

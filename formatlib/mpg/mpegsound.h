@@ -16,6 +16,8 @@
 #include <stdio.h>
 #include <sys/types.h>
 
+using namespace std;
+
 #ifndef _L__SOUND__
 #define _L__SOUND__
 

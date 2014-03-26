@@ -42,6 +42,8 @@ enum
 
 typedef struct _AUpvlist *AUpvlist;
 
+#include <string.h> /* memset */
+
 #define AU_NULL_PVLIST ((struct _AUpvlist *) 0)
 
 AUpvlist AUpvnew (int maxItems);
